@@ -20,5 +20,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = funkyFunction()
-if (typeof function() === "FUNKY!")
+var theFunk = result (funkyFunction())
