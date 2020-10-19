@@ -20,4 +20,3 @@ var funkyFunction = function() {
   }
 }
 console.log(funkyFuntion())
-var theFunk = result (funkyFunction())
