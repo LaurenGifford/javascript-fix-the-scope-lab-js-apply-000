@@ -20,4 +20,4 @@ var funkyFunction = function() {
   }
 }
 
-var theFunk = (funkyFunction() === "FUNKY!")
+var theFunk = funkyFunction()
